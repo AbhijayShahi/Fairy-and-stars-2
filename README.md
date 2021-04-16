@@ -1,1 +1,2 @@
-# Fairy-and-stars-2
+# FairyAndStar
+Fairy catches star
